@@ -1,0 +1,48 @@
+/*-----------------------------
+	    Top Bar
+------------------------------*/
+.top-bar.expanded .toggle-topbar a span{
+	box-shadow:none !important;
+}
+.top-bar.expanded .title-area {
+    background: #111;
+}
+.top-bar.expanded .toggle-topbar a {
+    color: #fff;
+}
+.top-bar.expanded .toggle-topbar a span {
+    -webkit-box-shadow: 0 10px 0 1px #fff, 0 16px 0 1px #fff, 0 22px 0 1px #fff;
+    box-shadow: 0 10px 0 1px #fff, 0 16px 0 1px #fff, 0 22px 0 1px #fff;
+}
+.top-bar.expanded .toggle-topbar a::after {
+    box-shadow: 0 10px 0 1px white, 0 16px 0 1px white, 0 22px 0 1px white;
+}
+.top-bar-section .dropdown li.title h5 a {
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.top-bar-section .dropdown li.title h5 a:before {
+    color:#fff;
+    content: "← ";
+    position: relative;
+    top: -2px;
+}
+a.parentLink {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700 !important;
+}
+
+/*-------------------------------
+	    Paginator
+-------------------------------*/
+ul.pagination li a{
+    padding: 0 7px;
+    border-radius: 0;
+}
+.pagination.current{
+    color: #fff;
+    background: #2795b6;
+    padding: 2px 7px;
+}

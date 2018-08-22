@@ -1,0 +1,202 @@
+/*-=Small screens=-*/
+
+
+/* max-width 640px and lower. Use this for mobiles only */
+
+@media only screen and (max-width: 40em) {
+    /* TOP BAR Mobile STYLING */
+    .top-bar {
+        background: #333333;
+        /* change background color if you need */
+    }
+    .top-bar-section ul li>a {
+        color: white;
+        /* change color of text if you need */
+        font-size: 13px;
+        background: #333333;
+        /* change background color if you need */
+    }
+    .top-bar-section ul li:hover>a {
+        background: #111 !important;
+        /* change background color if you need */
+    }
+    #homepage_shedule tr:first-child th:after {
+        content: '' !important;
+    }
+    .logo {
+        position: relative;
+        bottom: 0;
+        margin: 10px;
+    }
+    .fr,
+    .header_search input[type="text"] {
+        width: 100%;
+    }
+    .owl-theme .owl-controls .owl-buttons {
+        margin-top: -25px;
+        top: 17%;
+    }
+    #home-slider {
+        margin-bottom: 20px;
+    }
+    #home-slider .slider_caption {
+        position: relative;
+    }
+    #home-slider .slider_caption p {
+        margin-top: 0;
+        background: none;
+        color: #000;
+        text-shadow: none;
+    }
+    .wcs3-today-classes-widget-list li {
+        text-align: center;
+    }
+    .home_text {
+        margin: 10px 0;
+    }
+    .top-bar-section li:not(.has-form) a:not(.button) {
+        padding: 10px;
+    }
+    .interior_slider {
+        line-height: 400px;
+    }
+    #interior_slider .owl-buttons {
+        top: 50%;
+    }
+    #interior_slider .owl-pagination {
+        bottom: -45%;
+    }
+    .thumb img {
+        display: table;
+        margin: 0 auto;
+    }
+    .thumb span {
+        height: auto;
+    }
+    .more_photos {
+        height: 450px;
+    }
+    .more_photos img {
+        display: table;
+        margin: 0 auto 10px;
+        float: none;
+    }
+    .sidebar aside {
+        margin: 30px 0;
+    }
+    .sidebar h5 {
+        text-align: center;
+    }
+    .interior_video {
+        height: auto;
+    }
+    .interior_video h3 {
+        text-align: center;
+    }
+    #menu-main-menu a {
+        text-transform: uppercase;
+    }
+    .sub_text img,
+    .logo img {
+        display: table;
+        float: none;
+        margin: 0 auto;
+    }
+    .instructor img {
+        display: table;
+        margin: 10px auto;
+        float: none;
+    }
+    article.post-18 img {
+        width: 49%;
+        margin: 0 1px 1px 0;
+    }
+}
+
+
+/* max-width 640px and lower. Use this for mobiles only */
+
+
+/*-=Medium screens=-*/
+
+@media only screen and (min-width: 40.063em) {
+    /* TOP BAR STYLING */
+    .top-bar {
+        background: transparent;
+    }
+    .top-bar-section ul {
+        background: transparent;
+    }
+    .top-bar-section li:not(.has-form) a:not(.button) {
+        color: black;
+        background: transparent;
+        font-family: 'Open Sans Condensed', sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+    .top-bar-section li:not(.has-form) a:not(.button):hover {
+        color: #dd1f26;
+        background: transparent;
+    }
+    .top-bar-section li.current_page_item>a:not(.button) {
+        color: #dd1f26;
+        background: transparent;
+    }
+    .top-bar-section .has-dropdown>a {
+        padding: 0 10px;
+    }
+    .top-bar-section .has-dropdown>a:after {
+        display: none;
+    }
+    /* Dropdown Styling*/
+    .top-bar-section ul li:hover:not(.has-form)>a {
+        background: transparent;
+        color: #dd1f26;
+    }
+    .top-bar-section .dropdown li:not(.has-form) a:not(.button) {
+        color: #454545;
+        background: #d5d5d5;
+        font-size: 13px;
+    }
+    .top-bar-section .dropdown li:not(.has-form):hover>a:not(.button) {
+        color: #dd1f26;
+        background: #d5d5d5;
+    }
+    .top-bar-section .has-dropdown>.dropdown li .dropdrown_menu li a {
+        background: blue;
+    }
+    .top-bar-section .has-dropdown>.dropdown li .dropdrown_menu li:hover a {
+        color: white;
+        text-decoration: underline;
+        background: red;
+    }
+    .top-bar-section .has-dropdown.hover>.dropdown li,
+    .top-bar-section .has-dropdown.not-click:hover>.dropdown li {
+        border-bottom: 1px solid #ccc;
+        /* change border of dropdown */
+    }
+    /*	 Align Menu to the right     */
+    .top-bar-section {
+        float: right;
+    }
+    /* Align Menu to the center
+        .top-bar-section { float:none; text-align: center; }
+        .top-bar-section ul{display: inline-block;} */
+}
+
+
+/* min-width 641px */
+
+@media only screen and (min-width: 40.063em) and (max-width: 64em) {}
+
+
+/* min-width 641px and max-width 1024px, use when QAing tablet-only issues */
+
+
+/*-=Large screens=-*/
+
+@media only screen and (min-width: 64.063em) {}
+
+
+/* min-width 1025px, large screens */

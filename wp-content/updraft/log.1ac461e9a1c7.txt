@@ -1,0 +1,352 @@
+0000.000 (0) Opened log file at time: Sun, 05 Nov 2017 19:48:32 +0000 on http://soulcraftbjj.com
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.12 WP: 4.8.3 PHP: 5.6.30 (cgi-fcgi, Linux web1428.opentransfer.com 2.6.18-417.el5xen #1 SMP Tue Dec 20 13:14:24 UTC 2016 x86_64) MySQL: 5.1.67 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 158M (used: 8.9M | 10.3M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 84034.7 MB
+0000.006 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.023 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.032 (0) Set semaphore last lock (fd) time to 2017-11-05 19:48:32
+0000.033 (0) Semaphore lock (fd) complete
+0000.060 (0) Backup run: resumption=0, nonce=1ac461e9a1c7, begun at=1509911312 (0s ago), job type=backup
+0000.084 (0) Scheduling a resumption (1) after 300 seconds (1509911612) in case this run gets aborted
+0000.112 (0) Checking if we have a zip executable available
+0000.115 (0) Testing: /usr/bin/zip
+0000.120 (0) PHP event: code E_WARNING: popen() has been disabled for security reasons (line 1514, wp-content/plugins/updraftplus/class-updraftplus.php)
+0000.131 (0) Error: popen failed
+0000.144 (0) Creation of backups of directories: beginning
+0000.148 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.535 (0) Total entities for the zip file: 618 directories, 3687 files (0 skipped as non-modified), 54.2 MB
+0000.575 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.602 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.636 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.655 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.671 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.701 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.9 MB, 3687 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.829 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 600 files added (on-disk size: 3428.6 KB)
+0001.849 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 700 files added (on-disk size: 3428.6 KB)
+0001.877 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 800 files added (on-disk size: 3428.6 KB)
+0001.914 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 900 files added (on-disk size: 3428.6 KB)
+0001.938 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 1000 files added (on-disk size: 3428.6 KB)
+0001.942 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.5 MB, 3687 files batched, 501 (1002) added so far); re-opening (prior size: 3428.6 KB)
+0002.367 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 1100 files added (on-disk size: 4885.7 KB)
+0002.392 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 1200 files added (on-disk size: 4885.7 KB)
+0002.433 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 1300 files added (on-disk size: 4885.7 KB)
+0002.458 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 1400 files added (on-disk size: 4885.7 KB)
+0002.490 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 1500 files added (on-disk size: 4885.7 KB)
+0002.493 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.5 MB, 3687 files batched, 501 (1503) added so far); re-opening (prior size: 4885.7 KB)
+0002.886 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 1600 files added (on-disk size: 5668.8 KB)
+0002.909 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 1700 files added (on-disk size: 5668.8 KB)
+0002.931 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 1800 files added (on-disk size: 5668.8 KB)
+0002.957 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 1900 files added (on-disk size: 5668.8 KB)
+0002.985 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 2000 files added (on-disk size: 5668.8 KB)
+0002.988 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16 MB, 3687 files batched, 501 (2004) added so far); re-opening (prior size: 5668.8 KB)
+0005.554 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 2100 files added (on-disk size: 10143.3 KB)
+0005.578 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 2200 files added (on-disk size: 10143.3 KB)
+0005.597 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 2300 files added (on-disk size: 10143.3 KB)
+0005.622 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 2400 files added (on-disk size: 10143.3 KB)
+0005.666 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 2500 files added (on-disk size: 10143.3 KB)
+0005.672 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.5 MB, 3687 files batched, 501 (2505) added so far); re-opening (prior size: 10143.3 KB)
+0007.271 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 2600 files added (on-disk size: 12476.4 KB)
+0007.318 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 2700 files added (on-disk size: 12476.4 KB)
+0007.349 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 2800 files added (on-disk size: 12476.4 KB)
+0007.373 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 2900 files added (on-disk size: 12476.4 KB)
+0007.426 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 3000 files added (on-disk size: 12476.4 KB)
+0007.443 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.9 MB, 3687 files batched, 501 (3006) added so far); re-opening (prior size: 12476.4 KB)
+0011.498 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 3100 files added (on-disk size: 16985.5 KB)
+0011.543 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 3200 files added (on-disk size: 16985.5 KB)
+0011.577 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 3300 files added (on-disk size: 16985.5 KB)
+0011.616 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 3400 files added (on-disk size: 16985.5 KB)
+0011.649 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 3500 files added (on-disk size: 16985.5 KB)
+0011.653 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.2 MB, 3687 files batched, 501 (3507) added so far); re-opening (prior size: 16985.5 KB)
+0012.995 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip.tmp: 3600 files added (on-disk size: 19424.9 KB)
+0014.071 (0) Created plugins zip (0) - 19882.1 KB in 13.9 s (1428.2 KB/s) (sha1: 4d65dfa194b0a882996ccc70ae0aaf59fe336385, sha256: 75a593cb5d33192bf8e5e47af22febf7ab87057e4ea77e40a6db9a226f8cd341)
+0014.085 (0) Beginning creation of dump of themes (split every: 400 MB)
+0014.090 (0) Total entities for the zip file: 12 directories, 83 files (0 skipped as non-modified), 1.4 MB
+0014.611 (0) Created themes zip (0) - 730.7 KB in 0.5 s (1394 KB/s) (sha1: b4ffdcb95e14371c0c0bfd1e381249afedce6aeb, sha256: b7aa06ac6ca737b0bc5828371e7615f3c92a722a007f8f7246d9d0d7b89216c0)
+0014.642 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0014.649 (0) Looking for candidates to back up in: /hsphere/local/home/c349606/soulcraftbjj.com/wp-content/uploads
+0014.652 (0) finding files: 2014: adding to list (1)
+0014.671 (0) finding files: 2015: adding to list (2)
+0014.682 (0) finding files: 2017: adding to list (3)
+0014.696 (0) finding files: 2016: adding to list (4)
+0014.698 (0) finding files: mc4wp-debug-log.php: adding to list (5)
+0014.699 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0014.943 (0) Total entities for the zip file: 41 directories, 793 files (0 skipped as non-modified), 85.2 MB
+0014.977 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0014.996 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0015.004 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 793 files batched, 249 (249) added so far); re-opening (prior size: 0 KB)
+0023.622 (0) A useful amount of data was added after this amount of zip processing: 9.6 s (normalised: 9.6 s, rate: 2659.5 KB/s)
+0023.632 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-uploads.zip.tmp: 300 files added (on-disk size: 24959.6 KB)
+0023.645 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-uploads.zip.tmp: 400 files added (on-disk size: 24959.6 KB)
+0023.672 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-uploads.zip.tmp: 500 files added (on-disk size: 24959.6 KB)
+0023.675 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.8 MB, 793 files batched, 254 (503) added so far); re-opening (prior size: 24959.6 KB)
+0033.078 (0) A useful amount of data was added after this amount of zip processing: 10.1 s (normalised: 9.8 s, rate: 2622.6 KB/s)
+0033.106 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-uploads.zip.tmp: 600 files added (on-disk size: 50662.6 KB)
+0033.126 (0) Zip: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-uploads.zip.tmp: 700 files added (on-disk size: 50662.6 KB)
+0033.144 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (27.9 MB, 793 files batched, 212 (715) added so far); re-opening (prior size: 50662.6 KB)
+0041.529 (0) A useful amount of data was added after this amount of zip processing: 8.5 s (normalised: 7.6 s, rate: 3347.1 KB/s)
+0044.594 (0) Created uploads zip (0) - 85025.9 KB in 29.9 s (2844.4 KB/s) (sha1: aa1a1f1ac9ec4cc68c58e99d3633face55df5354, sha256: 58181b71c67f9915fc78daf1fc1f335d2fa4aa6ef4882cd0ad05caae375838d1)
+0044.598 (0) Beginning backup of other directories found in the content directory (index: 0)
+0044.600 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0044.602 (0) Looking for candidates to back up in: /hsphere/local/home/c349606/soulcraftbjj.com/wp-content
+0044.613 (0) finding files: updraft: skipping: this is the updraft directory
+0044.615 (0) finding files: upgrade: skipping: excluded by options
+0044.616 (0) finding files: plugins: skipping: this is the plugins directory
+0044.617 (0) finding files: index.php: adding to list (1)
+0044.618 (0) finding files: themes: skipping: this is the themes directory
+0044.620 (0) finding files: uploads: skipping: this is the uploads directory
+0044.621 (0) finding files: debug.log: skipping: excluded by options
+0044.622 (0) finding files: upload: adding to list (2)
+0044.636 (0) Total entities for the zip file: 1 directories, 2 files (0 skipped as non-modified), 0.1 MB
+0044.677 (0) Created others zip (0) - 40.4 KB in 0 s (836.7 KB/s) (sha1: 0806662e31a021ef8569c38b5911e903c2769ace, sha256: a63e609b83d810c0d6d7e4cdceb275f372b235bf7d08e2120fb2174e91973e47)
+0044.687 (0) Saving backup status to database (elements: 8)
+0044.692 (0) Beginning creation of database dump (WordPress DB)
+0044.753 (0) Testing: /usr/bin/mysqldump
+0044.755 (0) PHP event: code E_WARNING: popen() has been disabled for security reasons (line 1438, wp-content/plugins/updraftplus/class-updraftplus.php)
+0044.756 (0) Error: popen failed
+0044.782 (0) Table wp_options: Total expected rows (approximate): 143
+0044.914 (0) Table wp_options: Total rows added: 388 in 0.13 seconds
+0044.916 (0) Table wp_options: finishing file (backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_options.table.gz - 107.2 KB)
+0044.965 (0) Table wp_users: Total expected rows (approximate): 2
+0045.015 (0) Table wp_users: Total rows added: 2 in 0.05 seconds
+0045.048 (0) Table wp_users: finishing file (backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_users.table.gz - 0.6 KB)
+0045.163 (0) Table wp_usermeta: Total expected rows (approximate): 51
+0045.178 (0) Table wp_usermeta: Total rows added: 51 in 0.01 seconds
+0045.179 (0) Table wp_usermeta: finishing file (backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_usermeta.table.gz - 1.7 KB)
+0045.212 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0045.222 (0) Table wp_commentmeta: Total rows added: 0 in 0.01 seconds
+0045.309 (0) Table wp_commentmeta: finishing file (backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_commentmeta.table.gz - 0.3 KB)
+0045.346 (0) Table wp_comments: Total expected rows (approximate): 0
+0045.358 (0) Table wp_comments: Total rows added: 0 in 0.01 seconds
+0045.361 (0) Table wp_comments: finishing file (backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_comments.table.gz - 0.5 KB)
+0045.386 (0) Table wp_links: Total expected rows (approximate): 0
+0045.463 (0) Table wp_links: Total rows added: 0 in 0.06 seconds
+0045.467 (0) Table wp_links: finishing file (backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_links.table.gz - 0.4 KB)
+0045.492 (0) Table wp_postmeta: Total expected rows (approximate): 15311
+0046.184 (0) Table wp_postmeta: Total rows added: 12748 in 0.68 seconds
+0046.186 (0) Table wp_postmeta: finishing file (backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_postmeta.table.gz - 188 KB)
+0046.192 (0) Table wp_posts: Total expected rows (approximate): 1415
+0046.370 (0) Table wp_posts: Total rows added: 874 in 0.17 seconds
+0046.373 (0) Table wp_posts: finishing file (backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_posts.table.gz - 126 KB)
+0046.443 (0) Table wp_term_relationships: Total expected rows (approximate): 71
+0046.495 (0) Table wp_term_relationships: Total rows added: 71 in 0.05 seconds
+0046.497 (0) Table wp_term_relationships: finishing file (backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_term_relationships.table.gz - 0.5 KB)
+0046.503 (0) Table wp_term_taxonomy: Total expected rows (approximate): 7
+0046.524 (0) Table wp_term_taxonomy: Total rows added: 7 in 0.01 seconds
+0046.525 (0) Table wp_term_taxonomy: finishing file (backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0046.533 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0046.554 (0) Table wp_termmeta: Total rows added: 0 in 0.02 seconds
+0046.584 (0) Table wp_termmeta: finishing file (backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_termmeta.table.gz - 0.3 KB)
+0046.616 (0) Table wp_terms: Total expected rows (approximate): 7
+0046.627 (0) Table wp_terms: Total rows added: 7 in 0.01 seconds
+0046.638 (0) Table wp_terms: finishing file (backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_terms.table.gz - 0.5 KB)
+0046.689 (0) Table wp_duplicator_packages: Total expected rows (approximate): 0
+0046.747 (0) Table wp_duplicator_packages: Total rows added: 0 in 0.03 seconds
+0046.749 (0) Table wp_duplicator_packages: finishing file (backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_duplicator_packages.table.gz - 0.4 KB)
+0046.778 (0) Table wp_mp_timetable_data: Total expected rows (approximate): 60
+0046.812 (0) Table wp_mp_timetable_data: Total rows added: 60 in 0.03 seconds
+0046.814 (0) Table wp_mp_timetable_data: finishing file (backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_mp_timetable_data.table.gz - 1 KB)
+0046.831 (0) Table wp_wcs3_schedule: Total expected rows (approximate): 51
+0046.852 (0) Table wp_wcs3_schedule: Total rows added: 51 in 0.02 seconds
+0046.858 (0) Table wp_wcs3_schedule: finishing file (backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_wcs3_schedule.table.gz - 0.9 KB)
+0046.866 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_options.table.gz (1/15): adding to final database dump
+0046.893 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_users.table.gz (2/15): adding to final database dump
+0046.903 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_usermeta.table.gz (3/15): adding to final database dump
+0046.905 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_commentmeta.table.gz (4/15): adding to final database dump
+0046.907 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_comments.table.gz (5/15): adding to final database dump
+0046.908 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_links.table.gz (6/15): adding to final database dump
+0046.909 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_postmeta.table.gz (7/15): adding to final database dump
+0047.030 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_posts.table.gz (8/15): adding to final database dump
+0047.084 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_term_relationships.table.gz (9/15): adding to final database dump
+0047.086 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_term_taxonomy.table.gz (10/15): adding to final database dump
+0047.089 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_termmeta.table.gz (11/15): adding to final database dump
+0047.103 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_terms.table.gz (12/15): adding to final database dump
+0047.116 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_duplicator_packages.table.gz (13/15): adding to final database dump
+0047.117 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_mp_timetable_data.table.gz (14/15): adding to final database dump
+0047.119 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db-table-wp_wcs3_schedule.table.gz (15/15): adding to final database dump
+0047.121 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db.gz: finished writing out complete database file (400 KB)
+0047.143 (0) Total database tables backed up: 15 (backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db.gz, size: 436283, sha256)
+0047.167 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0047.168 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0047.170 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0047.171 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-others.zip: others: This file has not yet been successfully uploaded: will queue
+0047.172 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db.gz: db: This file has not yet been successfully uploaded: will queue
+0047.173 (0) Saving backup history. Total backup size: 103.6 MB
+0047.177 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0047.182 (0) Cloud backup selection (1/1): googledrive (last)
+0047.193 (0) Beginning dispatch of backup to remote (googledrive)
+0047.195 (0) Google Drive: requesting access token: client_id=608903947112-pu365p37o1uu3uu6ekrga96ehrtmgm1s.apps.googleusercontent.com
+0047.349 (0) Google Drive: successfully obtained access token
+0048.374 (0) Google Drive quota usage: used=443.2 MB, total=17408 MB, available=16964.8 MB
+0048.384 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip: Attempting to upload to Google Drive (into folder id: 0B-dIhnyFjLDQNlJNQVBoZUFHakE)
+0049.059 (0) Googledrive chunked upload: 5.2 % uploaded (1048576)
+0049.525 (0) Googledrive chunked upload: 10.3 % uploaded (2097152)
+0049.950 (0) Googledrive chunked upload: 15.5 % uploaded (3145728)
+0050.418 (0) Googledrive chunked upload: 20.6 % uploaded (4194304)
+0050.883 (0) Googledrive chunked upload: 25.8 % uploaded (5242880)
+0051.330 (0) Googledrive chunked upload: 30.9 % uploaded (6291456)
+0051.846 (0) Googledrive chunked upload: 36.1 % uploaded (7340032)
+0052.282 (0) Googledrive chunked upload: 41.2 % uploaded (8388608)
+0052.680 (0) Googledrive chunked upload: 46.4 % uploaded (9437184)
+0053.062 (0) Googledrive chunked upload: 51.5 % uploaded (10485760)
+0053.518 (0) Googledrive chunked upload: 56.7 % uploaded (11534336)
+0053.939 (0) Googledrive chunked upload: 61.8 % uploaded (12582912)
+0054.369 (0) Googledrive chunked upload: 67 % uploaded (13631488)
+0054.840 (0) Googledrive chunked upload: 72.1 % uploaded (14680064)
+0055.324 (0) Googledrive chunked upload: 77.3 % uploaded (15728640)
+0055.769 (0) Googledrive chunked upload: 82.4 % uploaded (16777216)
+0056.156 (0) Googledrive chunked upload: 87.6 % uploaded (17825792)
+0056.515 (0) Googledrive chunked upload: 92.7 % uploaded (18874368)
+0056.913 (0) Googledrive chunked upload: 97.9 % uploaded (19922944)
+0057.918 (0) Googledrive chunked upload: 100 % uploaded (19922944)
+0057.922 (0) OK: Archive backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip uploaded to Google Drive in 9.52 seconds
+0057.938 (0) Recording as successfully uploaded: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip (5e6f003ffccfc654edb0e7a5866e6c6c)
+0057.952 (0) Deleting local file: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-plugins.zip: OK
+0058.242 (0) Google Drive quota usage: used=462.7 MB, total=17408 MB, available=16945.3 MB
+0058.243 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-themes.zip: Attempting to upload to Google Drive (into folder id: 0B-dIhnyFjLDQNlJNQVBoZUFHakE)
+0059.520 (0) Googledrive chunked upload: 100 % uploaded
+0059.524 (0) OK: Archive backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-themes.zip uploaded to Google Drive in 1.28 seconds
+0059.533 (0) Recording as successfully uploaded: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-themes.zip (6572e7721d800dc270aaa9807bab5e47)
+0059.576 (0) Deleting local file: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-themes.zip: OK
+0059.801 (0) Google Drive quota usage: used=463.4 MB, total=17408 MB, available=16944.6 MB
+0059.814 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-uploads.zip: Attempting to upload to Google Drive (into folder id: 0B-dIhnyFjLDQNlJNQVBoZUFHakE)
+0060.476 (0) Googledrive chunked upload: 1.2 % uploaded (1048576)
+0060.954 (0) Googledrive chunked upload: 2.4 % uploaded (2097152)
+0061.374 (0) Googledrive chunked upload: 3.6 % uploaded (3145728)
+0061.821 (0) Googledrive chunked upload: 4.8 % uploaded (4194304)
+0062.346 (0) Googledrive chunked upload: 6 % uploaded (5242880)
+0062.784 (0) Googledrive chunked upload: 7.2 % uploaded (6291456)
+0063.198 (0) Googledrive chunked upload: 8.4 % uploaded (7340032)
+0063.590 (0) Googledrive chunked upload: 9.6 % uploaded (8388608)
+0063.991 (0) Googledrive chunked upload: 10.8 % uploaded (9437184)
+0064.424 (0) Googledrive chunked upload: 12 % uploaded (10485760)
+0064.856 (0) Googledrive chunked upload: 13.2 % uploaded (11534336)
+0065.308 (0) Googledrive chunked upload: 14.5 % uploaded (12582912)
+0065.678 (0) Googledrive chunked upload: 15.7 % uploaded (13631488)
+0066.128 (0) Googledrive chunked upload: 16.9 % uploaded (14680064)
+0066.663 (0) Googledrive chunked upload: 18.1 % uploaded (15728640)
+0067.096 (0) Googledrive chunked upload: 19.3 % uploaded (16777216)
+0067.530 (0) Googledrive chunked upload: 20.5 % uploaded (17825792)
+0067.925 (0) Googledrive chunked upload: 21.7 % uploaded (18874368)
+0068.329 (0) Googledrive chunked upload: 22.9 % uploaded (19922944)
+0068.758 (0) Googledrive chunked upload: 24.1 % uploaded (20971520)
+0069.201 (0) Googledrive chunked upload: 25.3 % uploaded (22020096)
+0069.657 (0) Googledrive chunked upload: 26.5 % uploaded (23068672)
+0070.225 (0) Googledrive chunked upload: 27.7 % uploaded (24117248)
+0070.718 (0) Googledrive chunked upload: 28.9 % uploaded (25165824)
+0071.286 (0) Googledrive chunked upload: 30.1 % uploaded (26214400)
+0071.954 (0) Googledrive chunked upload: 31.3 % uploaded (27262976)
+0072.425 (0) Googledrive chunked upload: 32.5 % uploaded (28311552)
+0075.832 (0) Googledrive chunked upload: 33.7 % uploaded (29360128)
+0076.258 (0) Googledrive chunked upload: 34.9 % uploaded (30408704)
+0076.693 (0) Googledrive chunked upload: 36.1 % uploaded (31457280)
+0077.059 (0) Googledrive chunked upload: 37.3 % uploaded (32505856)
+0077.459 (0) Googledrive chunked upload: 38.5 % uploaded (33554432)
+0077.847 (0) Googledrive chunked upload: 39.7 % uploaded (34603008)
+0078.236 (0) Googledrive chunked upload: 40.9 % uploaded (35651584)
+0078.607 (0) Googledrive chunked upload: 42.2 % uploaded (36700160)
+0079.155 (0) Googledrive chunked upload: 43.4 % uploaded (37748736)
+0079.653 (0) Googledrive chunked upload: 44.6 % uploaded (38797312)
+0080.138 (0) Googledrive chunked upload: 45.8 % uploaded (39845888)
+0080.642 (0) Googledrive chunked upload: 47 % uploaded (40894464)
+0081.135 (0) Googledrive chunked upload: 48.2 % uploaded (41943040)
+0081.595 (0) Googledrive chunked upload: 49.4 % uploaded (42991616)
+0081.998 (0) Googledrive chunked upload: 50.6 % uploaded (44040192)
+0082.395 (0) Googledrive chunked upload: 51.8 % uploaded (45088768)
+0082.855 (0) Googledrive chunked upload: 53 % uploaded (46137344)
+0083.286 (0) Googledrive chunked upload: 54.2 % uploaded (47185920)
+0083.771 (0) Googledrive chunked upload: 55.4 % uploaded (48234496)
+0084.202 (0) Googledrive chunked upload: 56.6 % uploaded (49283072)
+0084.658 (0) Googledrive chunked upload: 57.8 % uploaded (50331648)
+0085.045 (0) Googledrive chunked upload: 59 % uploaded (51380224)
+0085.530 (0) Googledrive chunked upload: 60.2 % uploaded (52428800)
+0085.958 (0) Googledrive chunked upload: 61.4 % uploaded (53477376)
+0086.345 (0) Googledrive chunked upload: 62.6 % uploaded (54525952)
+0086.711 (0) Googledrive chunked upload: 63.8 % uploaded (55574528)
+0087.101 (0) Googledrive chunked upload: 65 % uploaded (56623104)
+0087.486 (0) Googledrive chunked upload: 66.2 % uploaded (57671680)
+0087.988 (0) Googledrive chunked upload: 67.4 % uploaded (58720256)
+0088.454 (0) Googledrive chunked upload: 68.6 % uploaded (59768832)
+0088.949 (0) Googledrive chunked upload: 69.9 % uploaded (60817408)
+0089.429 (0) Googledrive chunked upload: 71.1 % uploaded (61865984)
+0089.914 (0) Googledrive chunked upload: 72.3 % uploaded (62914560)
+0090.364 (0) Googledrive chunked upload: 73.5 % uploaded (63963136)
+0090.791 (0) Googledrive chunked upload: 74.7 % uploaded (65011712)
+0091.321 (0) Googledrive chunked upload: 75.9 % uploaded (66060288)
+0091.831 (0) Googledrive chunked upload: 77.1 % uploaded (67108864)
+0092.281 (0) Googledrive chunked upload: 78.3 % uploaded (68157440)
+0092.766 (0) Googledrive chunked upload: 79.5 % uploaded (69206016)
+0093.228 (0) Googledrive chunked upload: 80.7 % uploaded (70254592)
+0093.796 (0) Googledrive chunked upload: 81.9 % uploaded (71303168)
+0094.234 (0) Googledrive chunked upload: 83.1 % uploaded (72351744)
+0094.718 (0) Googledrive chunked upload: 84.3 % uploaded (73400320)
+0095.210 (0) Googledrive chunked upload: 85.5 % uploaded (74448896)
+0095.679 (0) Googledrive chunked upload: 86.7 % uploaded (75497472)
+0096.101 (0) Googledrive chunked upload: 87.9 % uploaded (76546048)
+0096.568 (0) Googledrive chunked upload: 89.1 % uploaded (77594624)
+0096.940 (0) Googledrive chunked upload: 90.3 % uploaded (78643200)
+0097.399 (0) Googledrive chunked upload: 91.5 % uploaded (79691776)
+0097.876 (0) Googledrive chunked upload: 92.7 % uploaded (80740352)
+0098.292 (0) Googledrive chunked upload: 93.9 % uploaded (81788928)
+0098.693 (0) Googledrive chunked upload: 95.1 % uploaded (82837504)
+0099.157 (0) Googledrive chunked upload: 96.3 % uploaded (83886080)
+0099.688 (0) Googledrive chunked upload: 97.6 % uploaded (84934656)
+0100.146 (0) Googledrive chunked upload: 98.8 % uploaded (85983232)
+0100.600 (0) Googledrive chunked upload: 100 % uploaded (87031808)
+0101.362 (0) Googledrive chunked upload: 100 % uploaded (87031808)
+0101.368 (0) OK: Archive backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-uploads.zip uploaded to Google Drive in 41.54 seconds
+0101.371 (0) Recording as successfully uploaded: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-uploads.zip (74e1ff7526476664986352cc9533ac25)
+0101.404 (0) Deleting local file: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-uploads.zip: OK
+0101.640 (0) Google Drive quota usage: used=546.4 MB, total=17408 MB, available=16861.6 MB
+0101.647 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-others.zip: Attempting to upload to Google Drive (into folder id: 0B-dIhnyFjLDQNlJNQVBoZUFHakE)
+0102.657 (0) Googledrive chunked upload: 100 % uploaded
+0102.682 (0) OK: Archive backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-others.zip uploaded to Google Drive in 1.01 seconds
+0102.686 (0) Recording as successfully uploaded: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-others.zip (a104a221b47236e584de511f5755c4fd)
+0102.691 (0) Deleting local file: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-others.zip: OK
+0102.914 (0) Google Drive quota usage: used=546.4 MB, total=17408 MB, available=16861.6 MB
+0102.916 (0) backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db.gz: Attempting to upload to Google Drive (into folder id: 0B-dIhnyFjLDQNlJNQVBoZUFHakE)
+0104.443 (0) Googledrive chunked upload: 100 % uploaded
+0104.448 (0) OK: Archive backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db.gz uploaded to Google Drive in 1.53 seconds
+0104.452 (0) Recording as successfully uploaded: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db.gz (41477dae0b7a7c3bb36d49f540e4c910)
+0104.458 (0) Deleting local file: backup_2017-11-05-1948_Soulcraft_Brazilian_Jiu_Jitsu__1ac461e9a1c7-db.gz: OK
+0104.463 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0104.465 (0) Number of backup sets in history: 3; groups (db): 1
+0104.471 (0) Examining (for databases) backup set with group_id=0, nonce=1ac461e9a1c7, datestamp=1509911312 (Nov 05 2017 19:48:32)
+0104.474 (0) This backup set is the backup set just made, so will not be deleted.
+0104.474 (0) Examining (for databases) backup set with group_id=0, nonce=0afdaa9cde85, datestamp=1504451903 (Sep 03 2017 15:18:23)
+0104.474 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0104.486 (0) Examining (for databases) backup set with group_id=0, nonce=c1ac6af407a1, datestamp=1485880526 (Jan 31 2017 16:35:26)
+0104.487 (0) 1485880526: db: this set includes a database (backup_2017-01-31-1635_Soulcraft_Brazilian_Jiu_Jitsu__c1ac6af407a1-db.gz); db count is now 2
+0104.487 (0) 1485880526: db: over retain limit (2); will delete this database
+0104.487 (0) Delete file: backup_2017-01-31-1635_Soulcraft_Brazilian_Jiu_Jitsu__c1ac6af407a1-db.gz, service=googledrive
+0106.093 (0) backup_2017-01-31-1635_Soulcraft_Brazilian_Jiu_Jitsu__c1ac6af407a1-db.gz: Deletion successful
+0106.098 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0106.099 (0) Number of backup sets in history: 3; groups (files): 1
+0106.100 (0) Examining (for files) backup set with nonce=1ac461e9a1c7, datestamp=1509911312 (Nov 05 2017 19:48:32)
+0106.100 (0) This backup set is the backup set just made, so will not be deleted.
+0106.101 (0) This backup set is the backup set just made, so will not be deleted.
+0106.101 (0) This backup set is the backup set just made, so will not be deleted.
+0106.101 (0) This backup set is the backup set just made, so will not be deleted.
+0106.101 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0106.102 (0) Examining (for files) backup set with nonce=0afdaa9cde85, datestamp=1504451903 (Sep 03 2017 15:18:23)
+0106.102 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0106.102 (0) Examining (for files) backup set with nonce=c1ac6af407a1, datestamp=1485880526 (Jan 31 2017 16:35:26)
+0106.102 (0) plugins: over retain limit (2); will delete this file entity
+0106.102 (0) themes: over retain limit (2); will delete this file entity
+0106.102 (0) uploads: over retain limit (2); will delete this file entity
+0106.102 (0) others: over retain limit (2); will delete this file entity
+0106.102 (0) Delete file: backup_2017-01-31-1635_Soulcraft_Brazilian_Jiu_Jitsu__c1ac6af407a1-plugins.zip, service=googledrive
+0106.103 (0) Delete file: backup_2017-01-31-1635_Soulcraft_Brazilian_Jiu_Jitsu__c1ac6af407a1-themes.zip, service=googledrive
+0106.117 (0) Delete file: backup_2017-01-31-1635_Soulcraft_Brazilian_Jiu_Jitsu__c1ac6af407a1-uploads.zip, service=googledrive
+0106.126 (0) Delete file: backup_2017-01-31-1635_Soulcraft_Brazilian_Jiu_Jitsu__c1ac6af407a1-others.zip, service=googledrive
+0106.914 (0) backup_2017-01-31-1635_Soulcraft_Brazilian_Jiu_Jitsu__c1ac6af407a1-others.zip: Deletion successful
+0107.423 (0) backup_2017-01-31-1635_Soulcraft_Brazilian_Jiu_Jitsu__c1ac6af407a1-uploads.zip: Deletion successful
+0107.949 (0) backup_2017-01-31-1635_Soulcraft_Brazilian_Jiu_Jitsu__c1ac6af407a1-themes.zip: Deletion successful
+0108.489 (0) backup_2017-01-31-1635_Soulcraft_Brazilian_Jiu_Jitsu__c1ac6af407a1-plugins.zip: Deletion successful
+0108.516 (0) This backup set is now empty; will remove from history
+0108.517 (0) Deleting log file (log.c1ac6af407a1.txt)
+0108.527 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0108.573 (0) Resume backup (1ac461e9a1c7, 0): finish run
+0108.590 (0) Decremented the semaphore (fd) by 1
+0108.591 (0) Semaphore (fd) unlocked
+0108.592 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0108.596 (0) No email will/can be sent - the user has not configured an email address.
+0108.597 (0) The backup apparently succeeded and is now complete
